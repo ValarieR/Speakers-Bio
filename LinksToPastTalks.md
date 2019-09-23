@@ -35,6 +35,10 @@ October 2018
 Women Who Code Meetup Event
 February 2019
 
+### "Proper Care And Feeding Of Jr Developers"
+Devnexus - Atlanta, GA, USA
+March 2019
+
 ### ["Mothering a Dev Team"](https://www.recallact.com/presentation/mothering-dev-team)
 DevOpsDays Atlanta / MapCamp
 April 2019
@@ -53,6 +57,10 @@ July 2019
 ### ["Continuously Awesome: Using Jenkins to Build, Deploy, and Automate Projects"](https://www.meetup.com/gdg-atlanta/events/cbwcpqyzmbhc/)
 GDG Women Techmakers of Atlanta - Atlanta, GA, USA
 September 2019 - Terminus Software
+
+### ["DevOps: A Love Story"](https://connect.tech/)
+Connect.tech - Atlanta, GA, USA
+October 2019
 
 ### ["DevOps: A Love Story"](https://gdg-siberia.com)
 GDG DevFest Siberia 2019
