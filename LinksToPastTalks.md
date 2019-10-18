@@ -91,16 +91,11 @@ July 2019
 ### ["Continuously Awesome: Using Jenkins to Build, Deploy, and Automate Projects"](https://www.meetup.com/gdg-atlanta/events/cbwcpqyzmbhc/)
 GDG Women Techmakers of Atlanta - Atlanta, GA, USA
 
-September 2019 - Terminus Software
-
-### ["Continuously Awesome: Using Jenkins to Build, Deploy, and Automate Projects"](https://www.meetup.com/gdg-atlanta/events/cbwcpqyzmbhc/)
-GDG Women Techmakers of Atlanta - Atlanta, GA, USA
-
 September 2019
 
 ---
 
-### ["DevOps: A Love Story"](https://connect.tech/)
+### "DevOps: A Love Story"
 Connect.tech - Atlanta, GA, USA
 
 October 2019
