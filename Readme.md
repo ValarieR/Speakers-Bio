@@ -5,3 +5,5 @@
   * [LinkedIn](https://www.linkedin.com/in/valarieregas/)
 
 ### [Past Speaking Engagements](https://github.com/ValarieR/Speakers-Bio/blob/master/LinksToPastTalks.md)
+
+### [Resume](https://github.com/ValarieR/Speakers-Bio/blob/master/Resume.md)
