@@ -88,13 +88,15 @@ July 2019
 
 ---
 
-
-# Upcoming Speaking Engagements
-
 ### ["Continuously Awesome: Using Jenkins to Build, Deploy, and Automate Projects"](https://www.meetup.com/gdg-atlanta/events/cbwcpqyzmbhc/)
 GDG Women Techmakers of Atlanta - Atlanta, GA, USA
 
 September 2019 - Terminus Software
+
+### ["Continuously Awesome: Using Jenkins to Build, Deploy, and Automate Projects"](https://www.meetup.com/gdg-atlanta/events/cbwcpqyzmbhc/)
+GDG Women Techmakers of Atlanta - Atlanta, GA, USA
+
+September 2019
 
 ---
 
@@ -104,6 +106,8 @@ Connect.tech - Atlanta, GA, USA
 October 2019
 
 ---
+
+# Upcoming Speaking Engagements
 
 ### ["DevOps: A Love Story"](https://gdg-siberia.com)
 GDG DevFest Siberia 2019
@@ -116,3 +120,5 @@ Novermber 2019 - Novosibirsk, Russia
 LeanAgile2020
 
 February 2020 - Ft. Lauderdale, FL, USA
+
+### ["Mothering a Dev Team" & "DevOps: A Love Story"]()
