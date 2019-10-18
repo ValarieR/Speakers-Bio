@@ -53,7 +53,7 @@ October 2018
 
 # 2019
 
-### “Want to start a podcast? Don’t do this.” with Jennifer Bland
+### “Want to start a podcast? Don’t do this.” with [Jennifer Bland](https://www.jenniferbland.com/)
 Women Who Code Meetup Event
 
 February 2019
@@ -81,7 +81,7 @@ June 2019
 
 ---
 
-### "Mothering a Dev Team"
+### ["Mothering a Dev Team"](https://youtu.be/JePPUBZM6iE)
 Code on the Beach - Atlantic Beach, FL, USA
 
 July 2019
