@@ -16,7 +16,7 @@ March 2018
 
 ---
 
-### "Diving Into Docker: Where Are My Floaties?!"
+### ["Diving Into Docker: Where Are My Floaties?!"](https://medium.com/@valarieregas/diving-into-docker-where-are-my-floaties-a48e6df0b72)
 Docker Atlanta Meetup
 
 April 2018 - Atlanta, GA, USA
