@@ -53,7 +53,7 @@ October 2018
 
 # 2019
 
-### “Want to start a podcast? Don’t do this.” with [Jennifer Bland](https://www.jenniferbland.com/)
+### [“Want to start a podcast? Don’t do this.”](https://twitter.com/WWCAtl/status/1098019654935695361?s=20) with [Jennifer Bland](https://www.jenniferbland.com/)
 Women Who Code Meetup Event
 
 February 2019
