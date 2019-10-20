@@ -45,7 +45,7 @@ August 2018
 ---
 
 ### "DevOps: A Love Story"
-WeRockIT Conf - Huntsville, AL, USA
+[WeRockIT Conf](https://werockitconf.com/) - Huntsville, AL, USA
 
 October 2018
 
