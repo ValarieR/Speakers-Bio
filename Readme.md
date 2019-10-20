@@ -1,4 +1,4 @@
-# [Valarie Regas](valarieregas.com)
+# [Valarie Regas](https://valarieregas.com)
 
 ### Social Media Links:
   * [Twitter](https://twitter.com/ValarieRegas)
