@@ -116,6 +116,8 @@ LeanAgile2020
 
 February 2020 - Ft. Lauderdale, FL, USA
 
+---
+
 ### ["Mothering a Dev Team" & "DevOps: A Love Story"](https://devnexus.com/)
 Devnexus
 
