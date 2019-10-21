@@ -61,7 +61,7 @@ February 2019
 ---
 
 ### "Proper Care And Feeding Of Jr Developers"
-Devnexus - Atlanta, GA, USA
+[Devnexus](https://devnexus.com/archive/devnexus2019/speakers/1190) - Atlanta, GA, USA
 
 March 2019
 
