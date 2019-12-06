@@ -102,14 +102,14 @@ October 2019
 
 ---
 
-# Upcoming Speaking Engagements
-
 ### ["DevOps: A Love Story"](https://gdg-siberia.com)
 GDG DevFest Siberia 2019
 
 Novermber 2019 - Novosibirsk, Russia
 
 ---
+
+# Upcoming Speaking Engagements
 
 ### ["Mothering a Dev Team"](http://leanagileus.com/)
 LeanAgile2020
@@ -122,3 +122,10 @@ February 2020 - Ft. Lauderdale, FL, USA
 Devnexus
 
 February 2020 - Atlanta, GA
+
+---
+
+### ["Things You Don't Know You Don't Know: Filling in the gaps after a coding bootcamp"](refactr.tech)
+Refactr.tech
+
+April 2020 - Atlanta, GA
