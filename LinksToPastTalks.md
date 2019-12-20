@@ -12,21 +12,21 @@ March 2018 - Atlanta, GA, USA
 ### ["Mother Nodes Best: Why You Should Hire Moms"](https://www.recallact.com/presentation/ignite-talks-0)
 DevOpsDays Atlanta
 
-March 2018
+March 2018 - Atlanta, GA, USA
 
 ---
 
 ### ["Diving Into Docker: Where Are My Floaties?!"](https://medium.com/@valarieregas/diving-into-docker-where-are-my-floaties-a48e6df0b72)
-Docker Atlanta Meetup
+[Docker Atlanta Meetup](https://www.meetup.com/Docker-Atlanta/events/249188141/)
 
 April 2018 - Atlanta, GA, USA
 
 ---
 
 ### "Usability Feud: A Game of All Things User Experience"
-Atlanta Web Performance Meetup Group
+[Atlanta Web Performance Meetup Group](https://www.meetup.com/Atlanta-Web-Performance-Group/events/hftknlyxjbjb/)
 
-June 2018
+June 2018 - Atlanta, GA, USA
 
 ---
 
@@ -38,72 +38,72 @@ June 2018 - Atlanta, GA, USA
 ---
 
 ### ["Proper Care And Feeding Of Jr Developers"](https://youtu.be/dCjmdXhQE4A)
-Code on the Beach - Atlantic Beach, FL, USA
+[Code on the Beach](https://www.codeonthebeach.com/)
 
-August 2018
+August 2018 - Atlantic Beach, FL, USA
 
 ---
 
 ### "DevOps: A Love Story"
-[WeRockIT Conf](https://werockitconf.com/) - Huntsville, AL, USA
+[WeRockIT Conf](https://werockitconf.com/)
 
-October 2018
+October 2018 - Huntsville, AL, USA
 
 ---
 
 # 2019
 
 ### [“Want to start a podcast? Don’t do this.”](https://twitter.com/WWCAtl/status/1098019654935695361?s=20) with [Jennifer Bland](https://www.jenniferbland.com/)
-Women Who Code Meetup Event
+[Women Who Code Meetup](https://www.meetup.com/Women-Who-Code-Atlanta/events/hmcxglyzdbzb/) - Atlanta, GA, USA
 
 February 2019
 
 ---
 
 ### "Proper Care And Feeding Of Jr Developers"
-[Devnexus](https://devnexus.com/archive/devnexus2019/speakers/1190) - Atlanta, GA, USA
+[Devnexus](https://devnexus.com/archive/devnexus2019/speakers/1190)
 
-March 2019
+March 2019 - Atlanta, GA, USA
 
 ---
 
 ### ["Mothering a Dev Team"](https://www.recallact.com/presentation/mothering-dev-team)
-DevOpsDays Atlanta / MapCamp
+[DevOpsDays Atlanta](https://devopsdays.org/events/2019-atlanta/speakers/valarie-regas/) / MapCamp /Serverlessdays
 
-April 2019
+April 2019 - Atlanta, GA, USA
 
 ---
 
 ### ["DevOps: A Love Story"](https://www.recallact.com/presentation/devops-love-story)
-Refactr.tech
+[Refactr.tech](https://www.refactr.tech/)
 
-June 2019
+June 2019 - Atlanta, GA, USA
 
 ---
 
 ### ["Mothering a Dev Team"](https://youtu.be/JePPUBZM6iE)
-Code on the Beach - Atlantic Beach, FL, USA
+[Code on the Beach](https://www.codeonthebeach.com/)
 
-July 2019
+July 2019 - - Atlantic Beach, FL, USA
 
 ---
 
 ### ["Continuously Awesome: Using Jenkins to Build, Deploy, and Automate Projects"](https://www.meetup.com/gdg-atlanta/events/cbwcpqyzmbhc/)
-GDG Women Techmakers of Atlanta - Atlanta, GA, USA
+[GDG Women Techmakers of Atlanta](https://www.meetup.com/gdg-atlanta/events/cbwcpqyzmbhc/)
 
-September 2019
+September 2019 - Atlanta, GA, USA
 
 ---
 
 ### "DevOps: A Love Story"
-Connect.tech - Atlanta, GA, USA
+[Connect.tech](http://connect.tech/)
 
-October 2019
+October 2019 - Atlanta, GA, USA
 
 ---
 
 ### ["DevOps: A Love Story"](https://gdg-siberia.com)
-GDG DevFest Siberia 2019
+GDG DevFest Siberia
 
 Novermber 2019 - Novosibirsk, Russia
 
@@ -121,11 +121,18 @@ February 2020 - Ft. Lauderdale, FL, USA
 ### ["Mothering a Dev Team" & "DevOps: A Love Story"](https://devnexus.com/)
 Devnexus
 
-February 2020 - Atlanta, GA
+February 2020 - Atlanta, GA, USA
+
+---
+
+### ["DevOps: A Love Story](https://www.devdotnext.com/)
+dev.next
+
+March 2020 - Broomfield, CO - USA
 
 ---
 
 ### ["Things You Don't Know You Don't Know: Filling in the gaps after a coding bootcamp"](refactr.tech)
 Refactr.tech
 
-April 2020 - Atlanta, GA
+April 2020 - Atlanta, GA, USA
