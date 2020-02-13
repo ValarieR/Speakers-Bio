@@ -1,7 +1,7 @@
 # [Valarie Regas](https://valarieregas.com)
 
 ### Social Media Links:
-  * [Personal Site](valarieregas.com)
+  * [Personal Site](https://valarieregas.com)
   * [Twitter](https://twitter.com/ValarieRegas)
   * [LinkedIn](https://www.linkedin.com/in/valarieregas/)
   * [Medium](https://medium.com/@valarieregas)
