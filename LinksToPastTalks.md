@@ -109,8 +109,6 @@ Novermber 2019 - Novosibirsk, Russia
 
 ---
 
-# Upcoming Speaking Engagements
-
 ### ["Mothering a Dev Team"](http://leanagileus.com/)
 LeanAgile2020
 
@@ -124,6 +122,8 @@ Devnexus
 February 2020 - Atlanta, GA, USA
 
 ---
+
+# Upcoming Speaking Engagements
 
 ### ["DevOps: A Love Story](https://www.devdotnext.com/)
 dev.next
@@ -139,7 +139,16 @@ April 2020 - Atlanta, GA, USA
 
 ---
 
-### ["Listen to Your Mother" & "Mothering a Dev Team"]()
+### ["The shiny new "Agile": Oops! We're Waterfall again!"](https://devoops-moscow.ru/en/2020/msk/talks/)
+DevOops
+
+April 2020 - Moscow, Russia
+
+<!-- ### ["Listen to Your Mother" & "Mothering a Dev Team"](https://www.abovecloudsconf.com/)
 Above The Clouds
 
-May 2020 - Zagreb, Croatia
+May 2020 - Zagreb, Croatia -->
+
+---
+
+### []()
