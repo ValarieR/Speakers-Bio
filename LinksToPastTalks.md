@@ -123,32 +123,65 @@ February 2020 - Atlanta, GA, USA
 
 ---
 
-# Upcoming Speaking Engagements
+> Cancelled or rescheduled due to the pandemic:
 
-### ["DevOps: A Love Story](https://www.devdotnext.com/)
-dev.next
-
-March 2020 - Broomfield, CO - USA
+>### ["DevOps: A Love Story](https://www.devdotnext.com/)
+>dev.next
+>
+>March 2020 - Broomfield, CO, USA
+>
 
 ---
 
-### ["Things You Don't Know You Don't Know: Filling in the gaps after a coding bootcamp"](refactr.tech)
-Refactr.tech
-
-April 2020 - Atlanta, GA, USA
+>### ["Things You Don't Know You Don't Know: Filling in the gaps after >a coding bootcamp"](refactr.tech)
+>Refactr.tech
+>
+>April 2020 - Atlanta, GA, USA
 
 ---
 
 ### ["The shiny new "Agile": Oops! We're Waterfall again!"](https://devoops-moscow.ru/en/2020/msk/talks/)
 DevOops
 
-April 2020 - Moscow, Russia
+April 2020 - Moscow, Russia (Online for 2020)
+
+---
+
+### ["Oops! We’re so agile, we’re waterfall again!"](https://jfrog.com/user-conference/oops-were-so-agile-were-waterfall-again/)
+swampUP, by jFrog
+
+June 2020 - Online
+
+---
+
+# Upcoming Speaking Engagements
+
+### ["Disaster Recovery & You"](http://connect.tech/)
+
+connect.tech - online for 2020
+
+October 2020 - Atlanta, GA, USA
+
+--- 
+
+### ["Continuously Awesome: Using Jenkins to Build, Deploy, and Automate"](https://2020.allthingsopen.org/)
+
+All Things Open
+
+October 2020 - Online
+
+---
+
+### ["Disaster Recovery & You: The Gift of Paranoia"](https://gdg-siberia.com/)
+
+GDG DevFest Siberia - online for 2020
+
+November 2020 - Novosibirsk, Russia
+
+---
+
 
 <!-- ### ["Listen to Your Mother" & "Mothering a Dev Team"](https://www.abovecloudsconf.com/)
 Above The Clouds
 
 May 2020 - Zagreb, Croatia -->
-
----
-
-### []()
