@@ -133,7 +133,7 @@ February 2020 - Atlanta, GA, USA
 
 ---
 
->### ["Things You Don't Know You Don't Know: Filling in the gaps after >a coding bootcamp"](refactr.tech)
+>### ["Things You Don't Know You Don't Know: Filling in the gaps after a coding bootcamp"](refactr.tech)
 >Refactr.tech
 >
 >April 2020 - Atlanta, GA, USA
