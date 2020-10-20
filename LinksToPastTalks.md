@@ -154,23 +154,23 @@ June 2020 - Online
 
 ---
 
-# Upcoming Speaking Engagements
-
 ### ["Disaster Recovery & You"](http://connect.tech/)
 
 connect.tech - online for 2020
 
 October 2020 - Atlanta, GA, USA
 
---- 
-
-### ["Continuously Awesome: Using Jenkins to Build, Deploy, and Automate"](https://2020.allthingsopen.org/)
-
-All Things Open
-
-October 2020 - Online
+---
+> Cancelled due to speaker illness:
+> ### ["Continuously Awesome: Using Jenkins to Build, Deploy, and Automate"](https://2020.allthingsopen.org/)
+>
+>All Things Open
+>
+>October 2020 - Online
 
 ---
+
+# Upcoming Speaking Engagements
 
 ### ["Disaster Recovery & You: The Gift of Paranoia"](https://gdg-siberia.com/)
 
