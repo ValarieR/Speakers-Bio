@@ -1,7 +1,7 @@
 # [Valarie Regas](https://valarieregas.com)
 
 ### Social Media Links:
-  * [Personal Site](valarieregas.com)
+  * [Personal Site](https://valarieregas.com)
   * [Twitter](https://twitter.com/ValarieRegas)
   * [LinkedIn](https://www.linkedin.com/in/valarieregas/)
   * [Slides.com](slides.com/valarieregas)
@@ -16,8 +16,6 @@
 
 ### Prefered Bios:
 
-* Valarie Regas is a DevOps fanatic, full-stack developer, a Georgia Tech coding bootcamp graduate, and a veteran mommy. She holds a BA in Psychology and currently works as a DevOps Engineer. After years being a stay-at-home mom, she decided to change her life by entering tech, and has learned a lot along the way. In addition to DevOps, she enjoys mixed martial arts fighting, table-top role playing games, public speaking, creating tiny humans, and activism of all sorts.
-
-------
-
-* I am a DevOps fanatic, full-stack developer, a Georgia Tech coding bootcamp graduate, and a veteran mommy. I hold a BA in Psychology and currently work as a DevOps Engineer. After years being a stay-at-home mom, I decided to change my life by entering tech, and have learned a lot along the way. In addition to DevOps, I enjoy mixed martial arts fighting, table-top role playing games, public speaking, creating tiny humans, and activism of all sorts.
+  * Valarie Regas is a DevOps fanatic, full-stack developer, a Georgia Tech coding bootcamp graduate, and a veteran mommy. She holds a BA in Psychology and currently works as a DevOps Engineer. After years being a stay-at-home mom, she decided to change her life by entering tech, and has learned a lot along the way. In addition to DevOps, she enjoys mixed martial arts fighting, table-top role playing games, public speaking, creating tiny humans, and activism of all sorts.
+---
+  * I am a DevOps fanatic, full-stack developer, a Georgia Tech coding bootcamp graduate, and a veteran mommy. I hold a BA in Psychology and currently work as a DevOps Engineer. After years being a stay-at-home mom, I decided to change my life by entering tech, and have learned a lot along the way. In addition to DevOps, I enjoy mixed martial arts fighting, table-top role playing games, public speaking, creating tiny humans, and activism of all sorts.
