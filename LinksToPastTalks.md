@@ -176,7 +176,7 @@ October 2020 - Atlanta, GA, USA
 
 GDG DevFest Siberia - online for 2020
 
-November 2020 - Novosibirsk, Russia
+December 2020 - Novosibirsk, Russia
 
 ---
 
