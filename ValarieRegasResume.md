@@ -11,7 +11,7 @@ Docker, Kubernetes, Jenkins, Shell Scripting, Jira/Confluence/Aha, Git, JavaScri
 #### Jr. DevOps Engineer — Airbus MAY 2018 - PRESENT
 
 * Design custom Docker images, custom CI/CD pipelines
-* Actively manage, improve, and monitor cloud infrastructure; Google Cloud
+* Actively manage, improve, and monitor cloud infrastructure; Google Cloud, AWS
 * Work with Software Engineers, Developers, and SDETs in an Agile environment
 * Accomplished public speaker
 
