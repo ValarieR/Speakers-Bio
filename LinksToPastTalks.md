@@ -172,6 +172,12 @@ October 2020 - Atlanta, GA, USA
 
 # Upcoming Speaking Engagements
 
+### [Proper Care & Feeding of Jr. Developers](https://wurreka.com/ict/virtual-conference/lead/)
+
+GIDS.LEAD Live - online for 2020
+
+November 2020 - India | Singapore | Australia
+
 ### ["Disaster Recovery & You: The Gift of Paranoia"](https://gdg-siberia.com/)
 
 GDG DevFest Siberia - online for 2020
