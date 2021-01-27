@@ -170,8 +170,6 @@ October 2020 - Atlanta, GA, USA
 
 ---
 
-# Upcoming Speaking Engagements
-
 ### [Proper Care & Feeding of Jr. Developers](https://wurreka.com/ict/virtual-conference/lead/)
 
 GIDS.LEAD Live - online for 2020
@@ -186,8 +184,23 @@ December 2020 - Novosibirsk, Russia
 
 ---
 
+# Upcoming Speaking Engagements
 
-<!-- ### ["Listen to Your Mother" & "Mothering a Dev Team"](https://www.abovecloudsconf.com/)
-Above The Clouds
+### ["Continuously Awesome: Using Jenkins to Build, Deploy, and Automate"](https://devnexus.com/speakers/1190)
 
-May 2020 - Zagreb, Croatia -->
+Devnexus - online for 2021
+
+February 2021 - Atlanta, GA
+
+---
+
+### ["Oops! We're so Agile, We're Waterfall Again!"](https://scottishsummit.com/ss2021)
+
+Scottish Summit - online for 2021
+
+February 2021 - Glasgow, Scottland
+
+---
+
+### ["Using Jenkins to Build, Deploy, and Automate"](https://www.meetup.com/All-Things-Open-RTP-Meetup/events/275707082/)
+
