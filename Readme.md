@@ -1,5 +1,7 @@
 # [Valarie Regas](https://valarieregas.com)
 
+The purpose of this project is to make easily available my personal promotional materials to conference organizers, and others at whose events I might be presenting.
+
 ### Social Media Links:
 
 * [Personal Site](https://valarieregas.com)
@@ -7,7 +9,7 @@
 * [LinkedIn](https://www.linkedin.com/in/valarieregas/)
 * [Slides.com](slides.com/valarieregas)
 * [The CodePrep Podcast](https://www.codeprep.io/podcast/)
-  * Co-host/creator
+  * Co-host/creator - archived 2020
 
 ### [Available Sessions on PaperCall](https://www.papercall.io/speakers/valarieregas)
 
