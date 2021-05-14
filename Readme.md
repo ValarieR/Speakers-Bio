@@ -10,6 +10,7 @@ The purpose of this project is to make easily available my personal promotional 
 - [Slides.com](slides.com/valarieregas)
 - [The CodePrep Podcast](https://www.codeprep.io/podcast/)
   - Co-host/creator - archived 2020
+- [jFrog's SuperFrogs Program](https://jfrog.com/superfrogs/)
 
 ### [Available Sessions on PaperCall](https://www.papercall.io/speakers/valarieregas)
 
