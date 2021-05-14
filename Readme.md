@@ -2,6 +2,8 @@
 
 The purpose of this project is to make easily available my personal promotional materials to conference organizers, and others at whose events I might be presenting.
 
+![Valarie Regas](Photos/SuperFrogs.png)
+
 ### Social Media Links:
 
 - [Personal Site](https://valarieregas.com)
