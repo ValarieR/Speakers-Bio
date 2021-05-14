@@ -206,8 +206,6 @@ December 2020 - Novosibirsk, Russia
 
 ---
 
-# Upcoming Speaking Engagements
-
 ### ["Continuously Awesome: Using Jenkins to Build, Deploy, and Automate"](https://devnexus.com/speakers/1190)
 
 Devnexus - online for 2021
@@ -229,3 +227,13 @@ February 2021 - Glasgow, Scottland
 All Things Open RTP Meetup - online for 2021
 
 March 2021 - Raleigh, NC, USA
+
+---
+
+# Upcoming Speaking Engagements
+
+### ["Disaster Recovery & You"](https://swampup.jfrog.com/)
+
+SwampUP, presented by jFrog - online for 2021
+
+May 2021 - Virtual
