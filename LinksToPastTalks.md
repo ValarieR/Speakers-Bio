@@ -230,10 +230,10 @@ March 2021 - Raleigh, NC, USA
 
 ---
 
-# Upcoming Speaking Engagements
-
 ### ["Disaster Recovery & You"](https://swampup.jfrog.com/)
 
 SwampUP, presented by jFrog - online for 2021
 
 May 2021 - Virtual
+
+<!-- # Upcoming Speaking Engagements -->
