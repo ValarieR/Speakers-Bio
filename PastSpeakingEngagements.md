@@ -5,8 +5,6 @@
 - [2021 Engagements](https://github.com/ValarieR/Speakers-Bio/blob/updating-branch/PastSpeakingEngagements.md#2021-engagements)
 - [2022 Engagements](https://github.com/ValarieR/Speakers-Bio/blob/updating-branch/PastSpeakingEngagements.md#2022-engagements)
 
-[MyRelativeFile.ts](MyRelativeFile.ts#L123)
-
 # Upcoming Speaking Engagements
 
 ### ["Rebuilding Together"](https://devopsdays.org/events/2022-prague/welcome/)
