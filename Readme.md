@@ -16,7 +16,7 @@ The purpose of this project is to make easily available my personal promotional 
 
 ### [Available Sessions on PaperCall](https://www.papercall.io/speakers/valarieregas)
 
-### [Past Speaking Engagements](https://github.com/ValarieR/Speakers-Bio/blob/master/LinksToPastTalks.md)
+### [Past Speaking Engagements](https://github.com/ValarieR/Speakers-Bio/blob/master/PastSpeakingEngagements.md)
 
 ### [Resume](https://github.com/ValarieR/Speakers-Bio/blob/master/VRegasResumeCommunity.jpg)
 
