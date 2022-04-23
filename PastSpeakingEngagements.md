@@ -1,9 +1,9 @@
 # Table of Contents
 - [2018 Engagements](https://github.com/ValarieR/Speakers-Bio/blob/updating-branch/PastSpeakingEngagements.md#2018-engagements)
-- [2019 Engagements](PastSpeakingEngagements.md#L182)
-- [2020 Engagements](PastSpeakingEngagements.md#L90)
-- [2021 Engagements](PastSpeakingEngagements.md#L50)
-- [2022 Engagements](PastSpeakingEngagements.md#L34)
+- [2019 Engagements](https://github.com/ValarieR/Speakers-Bio/blob/updating-branch/PastSpeakingEngagements.md#2019-engagements)
+- [2020 Engagements](https://github.com/ValarieR/Speakers-Bio/blob/updating-branch/PastSpeakingEngagements.md#2020-engagements)
+- [2021 Engagements](https://github.com/ValarieR/Speakers-Bio/blob/updating-branch/PastSpeakingEngagements.md#2021-engagements)
+- [2022 Engagements](https://github.com/ValarieR/Speakers-Bio/blob/updating-branch/PastSpeakingEngagements.md#2022-engagements)
 
 [MyRelativeFile.ts](MyRelativeFile.ts#L123)
 
