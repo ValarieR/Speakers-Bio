@@ -236,4 +236,50 @@ SwampUP, presented by jFrog - online for 2021
 
 May 2021 - Virtual
 
-<!-- # Upcoming Speaking Engagements -->
+---
+
+### ["Rebuilding Together"](https://www.youtube.com/watch?v=yvXtfLzpSDE)
+
+Connect.tech - Keynote
+
+November 2021 - Atlanta, GA, USA
+
+---
+
+### ["Writing Code for the Future"](https://devnexus.com/speakers/1190)
+
+Devnexus
+
+April 2022 - Atlanta, GA, USA
+
+---
+
+### ["Rebuilding Together"](https://devopsdays.org/events/2022-atlanta/welcome/)
+
+DevOpsDays Atlanta - Keynote
+
+April 2022 - Atlanta, GA, USA
+
+# Upcoming Speaking Engagements
+
+### ["Rebuilding Together"](https://devopsdays.org/events/2022-prague/welcome/)
+
+DevOpsDays Prague
+
+May 2022 - Prague, Czech Republic
+
+---
+
+### ["Rebuilding Together"](https://www.codeonthebeach.com/)
+
+Code on the Beach - Keynote
+
+July 2022 - Atlantic Beach, FL, USA
+
+---
+
+### ["Rebuilding Together"](https://www.refactr.tech/)
+
+Refactr.tech
+
+September 2022 - Atlanta, GA, USA
