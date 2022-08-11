@@ -7,27 +7,37 @@
 
 # Upcoming Speaking Engagements
 
-### ["Rebuilding Together"](https://devopsdays.org/events/2022-prague/welcome/)
-
-DevOpsDays Prague
-
-May 2022 - Prague, Czech Republic
-
----
-
-### ["Rebuilding Together"](https://www.codeonthebeach.com/)
-
-Code on the Beach - Keynote
-
-July 2022 - Atlantic Beach, FL, USA
-
----
-
 ### ["Rebuilding Together"](https://www.refactr.tech/)
 
 Refactr.tech
 
 September 2022 - Atlanta, GA, USA
+
+---
+
+### ["Oops! We're so Agile, We're Waterfall Again!"](https://www.agile-meets-architecture.com/speakers/valarie-regas)
+
+Agile Meets Architecture 
+
+September 2022 - Kulturbrauerei, Berlin, Germany
+
+---
+
+### ["Disaster Recovery & You: The Gift of Paranoia"](https://devopsdays.org/events/2022-portugal/welcome/)
+
+DevOpsDays Portugal
+
+September 2022 - Porto, Portugal
+
+---
+
+### ["Disaster Recovery & You: The Gift of Paranoia"](https://2022.allthingsopen.org/speakers/valarie-regas/)
+
+All Things Open 2022
+
+October 2022 - Raleigh, NC, USA
+
+---
 
 # 2022 Engagements
 
@@ -45,6 +55,23 @@ Devnexus
 
 April 2022 - Atlanta, GA, USA
 
+---
+### ["Rebuilding Together"](https://devopsdays.org/events/2022-prague/welcome/)
+
+DevOpsDays Prague
+
+May 2022 - Prague, Czech Republic
+
+---
+
+### ["Rebuilding Together"](https://www.codeonthebeach.com/)
+
+Code on the Beach - Keynote
+
+July 2022 - Atlantic Beach, FL, USA
+
+---
+
 # 2021 Engagements
 
 ### ["Continuously Awesome: Using Jenkins to Build, Deploy, and Automate"](https://devnexus.com/speakers/1190)
@@ -59,7 +86,7 @@ February 2021 - Atlanta, GA, USA
 
 Scottish Summit - online for 2021
 
-February 2021 - Glasgow, Scottland
+February 2021 - Glasgow, Scotland
 
 ---
 
@@ -113,7 +140,7 @@ February 2020 - Atlanta, GA, USA
 
 ---
 
-> ### ["Things You Don't Know You Don't Know: Filling in the gaps after a coding bootcamp"](refactr.tech)
+> ### ["Things You Don't Know You Don't Know: Filling in the gaps after a coding boot camp"](refactr.tech)
 >
 > Refactr.tech
 >
@@ -171,9 +198,9 @@ December 2020 - Novosibirsk, Russia
 
 ### [“Want to start a podcast? Don’t do this.”](https://twitter.com/WWCAtl/status/1098019654935695361?s=20) with [Jennifer Bland](https://www.jenniferbland.com/)
 
-[Women Who Code Meetup](https://www.meetup.com/Women-Who-Code-Atlanta/events/hmcxglyzdbzb/) - Atlanta, GA, USA
+[Women Who Code Meetup](https://www.meetup.com/Women-Who-Code-Atlanta/events/hmcxglyzdbzb/) 
 
-February 2019
+February 2019 - Atlanta, GA, USA
 
 ---
 
@@ -229,7 +256,7 @@ October 2019 - Atlanta, GA, USA
 
 GDG DevFest Siberia
 
-Novermber 2019 - Novosibirsk, Russia
+November 2019 - Novosibirsk, Russia
 
 # 2018 Engagements
 
