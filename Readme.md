@@ -9,6 +9,7 @@ The purpose of this project is to make easily available my personal promotional 
 - [Personal Site](https://valarieregas.com)
 - [Twitter](https://twitter.com/ValarieRegas)
 - [LinkedIn](https://www.linkedin.com/in/valarieregas/)
+- [Notist Speaker's Profile](https://noti.st/valarieregas)
 - [Slides.com](slides.com/valarieregas)
 - [The CodePrep Podcast](https://www.codeprep.io/podcast/)
   - Co-host/creator - archived 2020
