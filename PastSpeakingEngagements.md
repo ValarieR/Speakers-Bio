@@ -7,35 +7,19 @@
 
 # Upcoming Speaking Engagements
 
-### ["Rebuilding Together"](https://www.refactr.tech/)
-
-Refactr.tech
-
-September 2022 - Atlanta, GA, USA
-
----
-
-### ["Oops! We're so Agile, We're Waterfall Again!"](https://www.agile-meets-architecture.com/speakers/valarie-regas)
-
-Agile Meets Architecture 
-
-September 2022 - Kulturbrauerei, Berlin, Germany
-
----
-
-### ["Disaster Recovery & You: The Gift of Paranoia"](https://devopsdays.org/events/2022-portugal/welcome/)
-
-DevOpsDays Portugal
-
-September 2022 - Porto, Portugal
-
----
-
 ### ["Disaster Recovery & You: The Gift of Paranoia"](https://2022.allthingsopen.org/speakers/valarie-regas/)
 
 All Things Open 2022
 
 October 2022 - Raleigh, NC, USA
+
+---
+
+### ["The State of People in DevOps"](https://www.eventbrite.com/e/atlanta-2022-state-of-devops-tour-tickets-403097093257)
+
+North American DevOps Group - State of DevOps Tour 2022
+
+November 2022 - Atlanta, GA, USA
 
 ---
 
@@ -69,6 +53,31 @@ May 2022 - Prague, Czech Republic
 Code on the Beach - Keynote
 
 July 2022 - Atlantic Beach, FL, USA
+
+---
+
+### ["Rebuilding Together"](https://www.refactr.tech/)
+
+Refactr.tech
+
+September 2022 - Atlanta, GA, USA
+
+---
+> Cancelled due to speaker injury:
+
+> ### ["Oops! We're so Agile, We're Waterfall Again!"](https://www.agile-meets-architecture.com/speakers/valarie-regas)
+>
+> Agile Meets Architecture 
+>
+> September 2022 - Kulturbrauerei, Berlin, Germany
+
+---
+
+### ["Disaster Recovery & You: The Gift of Paranoia"](https://devopsdays.org/events/2022-portugal/welcome/)
+
+DevOpsDays Portugal
+
+September 2022 - Porto, Portugal
 
 ---
 
