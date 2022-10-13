@@ -14,12 +14,14 @@ The purpose of this project is to make easily available my personal promotional 
 - [The CodePrep Podcast](https://www.codeprep.io/podcast/)
   - Co-host/creator - archived 2020
 - [jFrog's SuperFrogs Program](https://jfrog.com/superfrogs/)
+- [YouTube Speaking Playlist](https://www.youtube.com/playlist?list=PLRpeqT8aG8cRlnQZJT6KJkG9uBYaSB0bT)
+  - A collection of videos of past speaking engagements, as well as interviews
 
 ### [Available Sessions on PaperCall](https://www.papercall.io/speakers/valarieregas)
 
 ### [Past Speaking Engagements](https://github.com/ValarieR/Speakers-Bio/blob/master/PastSpeakingEngagements.md)
 
-### [Resume](https://github.com/ValarieR/Speakers-Bio/blob/master/VRegasResumeCommunity.jpg)
+### [Current Resume](https://github.com/ValarieR/Speakers-Bio/blob/master/VRegasResumeCommunity.jpg)
 
 ### Preferred Bios:
 
